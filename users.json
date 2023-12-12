@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "name": "Alice",
+            "salary": 5000
+        },
+        {
+            "name": "Bob",
+            "salary": 6000
+        },
+        {
+            "name": "Charlie",
+            "salary": 7000
+        },
+        {
+            "name": "David",
+            "salary": 8000
+        },
+        {
+            "name": "Eve",
+            "salary": 9000
+        },
+        {
+            "name": "Frank",
+            "salary": 10000
+        },
+        {
+            "name": "Grace",
+            "salary": 11000
+        },
+        {
+            "name": "Harry",
+            "salary": 12000
+        },
+        {
+            "name": "Irene",
+            "salary": 13000
+        },
+        {
+            "name": "Jack",
+            "salary": 14000
+        }
+    ]
+}
