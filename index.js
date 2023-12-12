@@ -29,7 +29,11 @@ document.addEventListener("DOMContentLoaded", () => {
             // console.log(data);
             
             // console.log(users);
-            
+            if(id===10){
+                
+               return  alert('All users already added');
+            }
+               
            for(let i=0;i<users.length;i++) {
             
                 let name = users[id].name;
